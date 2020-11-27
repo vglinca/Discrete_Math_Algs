@@ -1,0 +1,13 @@
+﻿  FordFulkAlg.cpp
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(65): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(73): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(90): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(116): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(152): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(165): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(174): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(188): warning C4018: '<': signed/unsigned mismatch
+d:\myprojects\discretemath\fordfulkersonalg\fordfulkalg.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  FordFulkersonAlg.vcxproj -> D:\MyProjects\DiscreteMath\Debug\FordFulkersonAlg.exe

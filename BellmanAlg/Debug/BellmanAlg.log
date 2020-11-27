@@ -1,0 +1,4 @@
+﻿  BellmanAlg.cpp
+d:\dev\discretemath\bellmanalg\bellmanalg.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+d:\dev\discretemath\bellmanalg\bellmanalg.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
+  BellmanAlg.vcxproj -> D:\dev\DiscreteMath\Debug\BellmanAlg.exe
